@@ -1,0 +1,5 @@
+hello file
+una nuova linea aggiunta alla precedente
+una nuova linea aggiunta alla precedente
+------------
+altra linea
